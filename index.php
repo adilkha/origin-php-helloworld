@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Universe v2 from ".gethostname().' - Current PHP version: ' . phpversion();
+echo "Hello Real v3 from ".gethostname().' - Current PHP version: ' . phpversion();
 
 ?>
